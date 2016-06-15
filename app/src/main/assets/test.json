@@ -1,0 +1,49 @@
+{
+  "status": {
+    "response_code": 0,
+    "response_message": "OK",
+    "response_extra": null
+  },
+  "data": [
+    {
+      "tvd_id": 1,
+      "clean_blades": 1,
+      "clean_blades_d": "Cleaned the blades",
+      "check_linkages": 1,
+      "check_linkages_d": "Linkages fine",
+      "manual_closeopen": 1,
+      "manual_closeopen_d": "Opened Closed 5 times",
+      "frame_tightness": 1,
+      "frame_tightness_d": "Was tight",
+      "actuator_wiring": 1,
+      "actuator_wiring_d": "yes",
+      "description": null,
+      "asset_code": null,
+      "maint_type_id": null,
+      "eng_id": null,
+      "contractor": null,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "tvd_id": 2,
+      "clean_blades": 0,
+      "clean_blades_d": "Blades were clean",
+      "check_linkages": 1,
+      "check_linkages_d": "Linkages broken, fixed",
+      "manual_closeopen": 0,
+      "manual_closeopen_d": "Switch not accessible",
+      "frame_tightness": 1,
+      "frame_tightness_d": "Was tight",
+      "actuator_wiring": 1,
+      "actuator_wiring_d": "To be cleaned",
+      "description": null,
+      "asset_code": null,
+      "maint_type_id": null,
+      "eng_id": null,
+      "contractor": null,
+      "created_at": null,
+      "updated_at": null
+    }
+  ]
+}
